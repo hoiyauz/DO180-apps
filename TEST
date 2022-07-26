@@ -1,1 +1,3 @@
 OCP4
+
+oc login --token=sha256~PfqIxdGR_JTD9W_Aa7M6gcQMJLCe4ST_j2mDW4HaBtY --server=https://api.eu410.prod.nextcle.com:6443
